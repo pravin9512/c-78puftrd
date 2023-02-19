@@ -11,7 +11,7 @@ function update()
       }
     
     //Debug the code to store list of images in updatedImage. Use images[i]
-    var updatedImage=images[1];
+    var updatedImage=images[i];
     //Debug the code to store list of names in updatedName. Use names[i]
     var updatedName=names[i] ;
  
